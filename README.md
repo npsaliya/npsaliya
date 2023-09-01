@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I'm Saliya Herath, from Sri Lanka
+# I'm Saliya Herath, from Sri Lanka 🤗🤗🤗
 
 <!--
 **npsaliya/npsaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
