@@ -2,7 +2,7 @@
 # **I'm Saliya Herath, from Sri Lanka** 🤗🤗🤗
 
 This is new Line.!
-*Testing
+# Testing
 ## Another New LIne...
 <!--
 **npsaliya/npsaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
